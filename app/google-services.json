@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "277866086793",
+    "firebase_url": "https://episoderecorder-ppapp.firebaseio.com",
+    "project_id": "episoderecorder-ppapp",
+    "storage_bucket": "episoderecorder-ppapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277866086793:android:9f45da73129fe351",
+        "android_client_info": {
+          "package_name": "com.seop.episoderecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277866086793-2n2i6hf4v9s2hl6qo530hsjoc0gket5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seop.episoderecorder",
+            "certificate_hash": "190d3f607cf8209c0706a92472f71bf6e8331044"
+          }
+        },
+        {
+          "client_id": "277866086793-rgcb0qobssllkn55ghfkikakinlre9sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkokKajGIsl6CnzaoUPImcp3evH5P_GFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277866086793-rgcb0qobssllkn55ghfkikakinlre9sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
